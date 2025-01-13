@@ -1,0 +1,43 @@
+# Eclipse and IntelliJ IDEA files
+.classpath
+.project
+.settings/
+
+# Maven and Gradle
+target/
+*.log
+*.war
+*.ear
+*.class
+*.jar
+build/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Logs and temp files
+*.log
+*.tmp
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.swp
+*.swo
+
+# Node.js (if used for frontend testing or additional utilities)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Other IDE files
+.vscode/
+*.launch
+
+# Generated JUnit and TestNG reports
+junitreports/
