@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# qa-test
-=======
 # README - Booking API Test Framework
 
 ## **Project Overview**
@@ -187,6 +184,3 @@ pom.xml
 ## **Passing tests proff**
 ![Passing tests](./images/Screenshot%202025-01-13%20at%206.06.58%E2%80%AFPM.png "Passing tests")
 
----
-
->>>>>>> 7b6b840 (Initial commit - Adding framework for Hostfully API tests)
